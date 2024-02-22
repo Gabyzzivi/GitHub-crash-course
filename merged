@@ -1,0 +1,30 @@
+[33mcommit 17d8d5f6413771cf856a8a6515819efeffb491e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 6aa4399 60a09f8
+Author: GabyO <gabriela@dgp.unam.mx>
+Date:   Thu Feb 22 14:51:37 2024 -0600
+
+    Merge branch 'feature-restructure'
+
+[33mcommit 6aa4399111e1bd9a942112b33d4eec41f2801195[m
+Author: GabyO <gabriela@dgp.unam.mx>
+Date:   Thu Feb 22 14:35:25 2024 -0600
+
+    Changed title
+
+[33mcommit 60a09f8f966965806b8c699f63c5c99771ee3fd4[m[33m ([m[1;32mfeature-restructure[m[33m)[m
+Author: GabyO <gabriela@dgp.unam.mx>
+Date:   Thu Feb 22 14:32:12 2024 -0600
+
+    added likns and restrucured page
+
+[33mcommit 8d08f5bfff91de0a53c1aa51196f0051bdc3e6a4[m
+Author: GabyO <gabriela@dgp.unam.mx>
+Date:   Thu Feb 1 19:07:18 2024 -0600
+
+    added logo and styling
+
+[33mcommit fc10aec7052979af3f0f79a25401c0b7deac0e99[m
+Author: GabyO <gabriela@dgp.unam.mx>
+Date:   Fri Jan 19 19:05:19 2024 -0600
+
+    initial commit
